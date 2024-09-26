@@ -22,6 +22,7 @@ version = '0.0.1',
 auther = 'ashu',
 auther_email = 'ashutoshgoswami852@gmail.com',
 packages = find_packages(),
-install_requies = get_requirements('requirements.tet')
-    
+install_requires=get_requirements('requirements.txt')
+
+
 )

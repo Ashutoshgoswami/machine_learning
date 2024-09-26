@@ -1,5 +1,5 @@
 import sys
-import logging
+from logger import logging
 
 def error_message_detail(error, error_deatil:sys):
     # the variabe which is use to check the information like which file the 
@@ -23,3 +23,4 @@ class CustomException(Exception):
     
 
         
+    
