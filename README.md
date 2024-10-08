@@ -1,4 +1,19 @@
 **Machine Learning Model**
-Algorithm: The system uses regression (e.g., Linear Regression, Decision Trees, or Random Forest) or neural networks (if deep learning is preferred) to predict the scores.
-Training Data: The model is trained using historical student data, including past scores, attendance, behavior metrics, and other relevant factors.
-Evaluation: The model is evaluated based on metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and R^2 Score to ensure accuracy.
+**Algorithm:**
+The system uses machine learning algorithms such as:
+
+Regression models: Linear Regression, Decision Trees, or Random Forest.
+Neural Networks: If deep learning is preferred for more complex predictions.
+**Training Data:**
+The model is trained using historical student data, which includes:
+
+Past academic scores.
+Attendance records.
+Behavior metrics.
+Any other relevant factors that may influence student performance.
+**Evaluation:**
+To ensure accuracy and reliability, the model is evaluated using the following metrics:
+
+**Mean Absolute Error (MAE):** Measures the average magnitude of the errors in predictions, without considering their direction.
+**Root Mean Square Error (RMSE):*8 Assesses the standard deviation of prediction errors, giving a higher penalty to larger errors.
+**R² Score:** Indicates how well the model explains the variability of the outcome (student scores).
